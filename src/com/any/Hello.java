@@ -9,6 +9,8 @@ public class Hello {
 		System.out.println("Done in develop branch");
 		
 	System.out.println("this is the bug fix");
+	System.out.println("sending bugfix to remote");
+
 	}
 
 }
